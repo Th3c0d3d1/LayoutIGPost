@@ -42,6 +42,9 @@ body{
     height: 400px;
     object-fit: contain;
 }
+.image img{
+    width: 100%;
+}
 .main-icons{
     display: flex;
 }
