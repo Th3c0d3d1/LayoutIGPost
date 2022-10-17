@@ -2,7 +2,6 @@ body{
     background-color: black;
 }
 .main-body{
-    border: 1px black dotted;
     margin: 0 auto;
     width: 30%;
     background-color:white;
@@ -40,7 +39,6 @@ body{
     padding-top: 2%;
 }
 .image{
-    border: 2px orange dotted;
     height: 400px;
     object-fit: contain;
 }
@@ -75,4 +73,5 @@ body{
     font-size: larger;
     padding-left: 2%;
     padding-right: 2%;
+    padding-bottom: 30px;
 }
